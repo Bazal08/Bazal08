@@ -34,7 +34,6 @@
 <br/>
 
 ## 📊 Github Stats
-
   <p align="center">
     <a href="https://github.com/Bazal08"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadZeeshanQ&show_icons=true&locale=en&theme=algolia" alt="Zeeshan" height="192px"/></a>
 	</p>
