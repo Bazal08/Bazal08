@@ -30,7 +30,7 @@
 
 ## 🔥 Streak Stats
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadZeeshanQ&theme=algolia" alt="Zeeshan" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammadZeeshanQ&theme=algolia" alt="Bazal Amjad" /></p>
 <br/>
 
 ## 📊 Github Stats
