@@ -1,6 +1,17 @@
   <h1 align="center">Hi , I'm Bazal Mahmood Alam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 - 📫 How to reach me: **bazalamjad006@gmail.com**
+- 
+- 🔭 I’m currently working as a Senior Full Stack Developer & Team Lead at Danhamz Ltd
+
+- 🌱 I’m currently learning **Generative AI**
+
+- 👨‍💻 All of my projects are available at [https://my-portfolio-bazalamjad.vercel.app/](https://my-portfolio-bazalamjad.vercel.app/)
+
+- 💬 Ask me about **reactjs,nextjs,react-native**
+
+- 📫 How to reach me **bazalamjad006@gmail.com**
+- ⚡ Fun fact **I have a secret language  only other software engineers can understand😂.**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center" style='margin-bottom:2rem;'>
